@@ -1,0 +1,14 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "NodeJS Caesar-cipher",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Pavel Svirid",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
