@@ -6,10 +6,10 @@ Caesar Cipher CLI can decode/encode text from the command line or .txt file and 
 
 CLI tool accept four options (short alias and full name):
 
--s, --shift: a shift
--i, --input: an input file
--o, --output: an output file
--a, --action: an action encode/decode
+-s, --shift: a shift  
+-i, --input: an input file  
+-o, --output: an output file  
+-a, --action: an action encode/decode  
 
 **Examples**
 
